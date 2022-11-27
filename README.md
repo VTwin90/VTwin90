@@ -48,8 +48,8 @@
 ## 😎 Here you have some of my projects: 
 - [Portfolio](https://vtwin90.github.io/Milestone-1-Portfolio/)
 - [THE (UN)PERFECT DATE](https://vtwin90.github.io/UN-PERFECT-DATE/)
-- [VGAMES](https://vgames-app.herokuapp.com/)
-- [Xelor](https://xelor-watches.herokuapp.com/)
+- [VGAMES](https://vgames-0i9m.onrender.com)
+- [Xelor](https://xelor-watches.onrender.com)
 
 ## 🤓 Hackathons: 
 - [StaticWickedQuiz Repo](https://github.com/StaticWickedCats/StaticWickedQuiz)
